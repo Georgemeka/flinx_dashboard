@@ -37,11 +37,11 @@ export default function Dashboard() {
                                 <img src={Chart} alt="barchart" />
                                 <p>Investments</p>
                             </li>
-                            <li className="mb-3 mb-48 flex space-x-2">
+                            <li className=" mb-48 flex space-x-2">
                                 <img src={Flag} alt="barchart" />
                                 <p>Review</p>
                             </li>
-                            <li className="mb-12 mb-3 flex space-x-2">
+                            <li className="mb-12 flex space-x-2">
                                 <img src={Settings} alt="barchart" />
                                 <p>Settings</p>
                             </li>
